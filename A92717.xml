@@ -1,0 +1,206 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Scots resolution declared in a message sent from the Privie-Councell of the Kingdome of Scotland, to His Majestie at York, by the Earle of Lovvden and chancellor of that kingdome. : Also a new plot against Hull. : Likevvise, an order of the Lords and Commons in Parliament, to the sheriff of the county of Lancaster, and all other sheriffs, and lord-lieutenants and deputy lieutenants in the Kingdom of England and Dominion of Wales. / Iohn. Brown Cleric Parliament.</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92717</idno>
+            <idno type="STC">Wing S2000B</idno>
+            <idno type="STC">ESTC R183597</idno>
+            <idno type="EEBO-CITATION">45789399</idno>
+            <idno type="OCLC">ocm 45789399</idno>
+            <idno type="VID">172710</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92717)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172710)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2646:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Scots resolution declared in a message sent from the Privie-Councell of the Kingdome of Scotland, to His Majestie at York, by the Earle of Lovvden and chancellor of that kingdome. : Also a new plot against Hull. : Likevvise, an order of the Lords and Commons in Parliament, to the sheriff of the county of Lancaster, and all other sheriffs, and lord-lieutenants and deputy lieutenants in the Kingdom of England and Dominion of Wales. / Iohn. Brown Cleric Parliament.</title>
+                  <author>Scotland. Privy Council.</author>
+                  <author>Loudoun, John Campbell, Earl of, 1598-1663.</author>
+                  <author>Brown, John.</author>
+                  <author>Scotland. Laws, etc.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Wood.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>May, 30. Lond on, Printed for Robert Wood. 1642.</note>
+                  <note>Imperfect: pages cropped at top with slight loss of print.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  History --  Charles I, 1625-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172710:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 99 -->
+            <p>THE SCOTS RESOLVTION; DECLARED, In a Meſſage ſent from the Privie-Councell of the Kingdome of <hi>Scotland,</hi> to His MAJESTIE at YORK, By the Earle of LOVVDEN, and Chancellor of that Kingdome.</p>
+            <p>ALSO, A NEW PLOT AGAINST HVLL.</p>
+            <p>LIKEVVISE, AN ORDER OF THE LORDS and Commons in Parliament, to the Sheriff of the County of <hi>Lancaſter,</hi> and all other Sheriffs, and Lord-Lieutenants and Deputy Lieutenants in the Kingdom of <hi>England</hi> and Dominion of <hi>Wales.</hi>
+            </p>
+            <p>IOHN. BROWN Clerie. Parliament.</p>
+            <p>
+               <hi>May,</hi> 30. LONDON, Printed for ROBERT WOOD. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="introduction">
+            <pb facs="tcp:172710:2"/>
+            <!-- PDF PAGE 100 -->
+            <head>A new Plot againſt <hi>Hull.</hi>
+            </head>
+            <head type="sub">Or, A new Deſigne to take <hi>Hull,</hi> begun and proſecuted by a company of Factious ſpirits, but moſt auſpiciouſly prevented.</head>
+            <p>SInce his Majeſties going downe to <hi>Yorke,</hi> many troubles and diſcontents have moleſted that part of the Kingdome, from which the Towne of <hi>Hull</hi> hath not been exempted: Since the firſt and ſecond attempt made againſt it, there was lately a new De<g ref="char:EOLhyphen"/>ſigne hatcht and ſet on foot to take the ſame, where<g ref="char:EOLhyphen"/>by the malignant party may the better aſſert their purpoſes, and bring to ruine the quiet eſtate of the whole Kingdome: Now lately a new miſchiefe was ſet on foot, being begun by the encouragement and countenance of ſome factious and diſquiet ſpirits This deſign was to have ſurprized the Towne, to have taken poſſeſsion thereof, and have gained all into their owne poſſeſsion but before they could accom<g ref="char:EOLhyphen"/>pliſh their wicked purpoſes, their intentions were diſcovered, by which meanes they did deſiſt from their purpoſe, ſo that neither the Plot it ſelf nor the Actors were brought to light, but in good time the Town was ſecured, and we hope the Actors or con<g ref="char:EOLhyphen"/>federates will be found out.</p>
+         </div>
+         <div type="document">
+            <pb facs="tcp:172710:2"/>
+            <!-- PDF PAGE 100 -->
+            <opener>
+               <dateline>EDENBURGH <date>the 18. of May, 1642.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE Lords of the Privie Councell of the King<g ref="char:EOLhyphen"/>dome of <hi>Scotland,</hi> in a frequent meeting, ha<g ref="char:EOLhyphen"/>ving according to the importance of matters of ſo great waight and concernment, maturely and at length conſidered the ſeverall Declara<g ref="char:EOLhyphen"/>rations, Meſſages, Anſwers and Inſtructions ſent unto them from his Mujeſty: As alſo what hath beene repreſented unto them in the Declaration ſent from the Parliament of <hi>England,</hi> doe finde themſelves bound in duty to ac<g ref="char:EOLhyphen"/>knowledge that they eſteeme it no ſmall happineſſe to receive true and full information from the Fountaine, and not to be left to the middle and wandring ſtreames of private miſ-reports, which are ready to miſlead ſuch as are apt to follow them from the right underſtanding of the Truth into the dangerous by-pathes of Iea<g ref="char:EOLhyphen"/>louſies and Errour, the preventing whereof, made the Kingdome in the time of their late Troubles ſo frequently to declare them<g ref="char:EOLhyphen"/>ſelves and their intentions both to his Majeſty and the Kingdome of <hi>England.</hi>
+            </p>
+            <p>They doe alſo receive and imbrace with all humble reſpect and thankfulneſſe from his Majeſty, the large and lively expreſſions of his Royall and Religious Reſolution, and care to maintaine and preſerve the true Religion, Liberties and Lawes of his Kingdomes, together with right correſpondencie betwixt them, it being the true and onely foundation of greatneſſe, and glory to himſelfe and his Poſterity, and of peace and happineſſe to his People, for which this whole Kingdome being ſtraightly bound by their common Allegeance, Naturall Obedience, and Nationall Oath, never to be forgotten, will ever moſt willingly and readily ſpend their lives and Fortunes, and what is deareſt unto them.</p>
+            <p>
+               <pb facs="tcp:172710:3"/>
+               <!-- PDF PAGE 101 -->
+They doe in like manner with reciprocall and Brotherly affecti<g ref="char:EOLhyphen"/>on acknowledge the large teſtimony of the care and zeale of the Parliament of <hi>England,</hi> to keep a right underſtanding betwixt the two Nations, which both Par<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iaments have obliged themſelves by ſolemne Vowes and Proteſta<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion, by all good meanes to preſerve, againſt which, no ſiniſter information or miſ-report ſhal ever make this Kingdome to fall into ſuch miſ-conſtruction as may be a vi<g ref="char:EOLhyphen"/>olation of their Vowe and Proteſtation made in Parliament.</p>
+            <p>But in the middeſt of their joy and gladneſſe, ariſing upon the Profeſſions and Proteſtations both of King and parliament, they cannot but profeſſe the unfeigned griefe and great feares, which they have conceived, upon the miſunderſtanding and ſo long riſing diſtractions betwixt his Majeſty and the Parliament, which unleſſe they be ſpeedily removed, can bring forth no other fruits, then the rejoycing and triumph of the common Enemies of our Religion and Peace, and ſuch a world of evils to his Majeſtie, and his Do<g ref="char:EOLhyphen"/>minions, as they are loth to ſuffer themſelves to thinke upon, and chuſe rather to wrap up in ſilence, wiſhing that they may be made never more to appeare then to the encouragement of ill-affected perſons, and griefe of the ſoules of all good men to be expreſſed by words, and therefore on the one part, they are confident that the honourable Houſes of Parliament, in their great wiſdome and af<g ref="char:EOLhyphen"/>fection, will leave no faire and good meanes unattempted, to in<g ref="char:EOLhyphen"/>duce his Majeſty to returne unto them.</p>
+            <p>That there may be a better underſtanding betwixt him and his People, and they honoured with his Royall power, and ſtrengthe<g ref="char:EOLhyphen"/>ned by his Scepter and Authority, and although they know, that they now will nor ſhould meddle with the publike actions of any other Kingdome then they are called intereſſed as fellow Sub<g ref="char:EOLhyphen"/>jects under one Head or Monarchy, yet ſince the Honourable Houſes of Parliament have thought meet to draw the practices of the Parliament of Scotland into Example in the point of Declaration, thay are confident that the affection of the Parlia<g ref="char:EOLhyphen"/>ment will leade them alſo to the practiſe of this Kingdome, in com<g ref="char:EOLhyphen"/>poſing the unhappie Differences betwixt his Majeſty and them, and ſo farre as may conſiſt with the Religion, Liberties and Lawes, in giving his Majeſty ſatisfaction, eſpecially in the tender care of His Royall Perſon, and of His Princely Greatneſſe and Authority, which will be alſo the moſt powerfull meanes of ſetling the great<g ref="char:EOLhyphen"/>neſſ
+<pb facs="tcp:172710:3"/>
+               <!-- PDF PAGE 101 -->and proſperity of that Kingdome, upon the other <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the deepe ſence of His Majeſtes trouble, and from the Love and Loyaltie of their hartes, their humble deſire is that his Maieſty may be pleaſed to hearken to the earneſt deſires and hearty Invitaion of His peoples intreating to his Parliament, which as it is His greateſt ſo it is his beſt and moſt unparalleld Counſe<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, that by the brightnes of His Maieſties preſence and Countenance all the Clouds of for<g ref="char:EOLhyphen"/>mer Iealouſies and feares may be ſcattered, and mutuall Confidenc may bee revived and His people ſatisfied, as the onely meanes of Happineſſe both of the King and Kingdome, the reſolution where upon this Kingdome will alſo in creaſe Our hap<g ref="char:EOLhyphen"/>pineſſe.</p>
+            <p>And ſince his Majeſty hath been pleaſed to make knowne unto them his Reſolution to goe into <hi>Ireland</hi> in perſon, they are bold as his Maieſties loving Subiects and faithfull Counſellours to give their humble opinions, that as thay doe with their hearts acknowlge his Majeſties fatherly compaſſion of the ſufferings of his good Subjects by the Rebellion there, his princely endeavours in quickning all meanes that may ſerve for their reliefe, and for the more ſpeedy and powerfull ſuppreſſion of the Rebels and delive<g ref="char:EOLhyphen"/>rance of his people, in offering to hazard his Royall perſon, then which there can be no greater Demonſtration of princely care and courage, ſo as by their naturall affection and by their deſire of the preſervation of his Majeſties perſon, upon which dependeth the ſafety of theſe Kingdomes, conſtrained in all humility to report that they conceive it to be a matter which requireth more mature Deliberation.</p>
+            <p>
+               <hi>Whether his Maieſtie ſhall hazard his owne Royall Perſon in ſuch a matter, and thereby alſo put his good Subiects in greate feares for him.</hi>
+            </p>
+            <p>
+               <hi>Whether the great Affaires and dangerous Diſtractions of the Kingdome of</hi> England, <hi>which never did more require his Perſonall preſence, may ſuffer his Abſence at this time.</hi>
+            </p>
+            <p>
+               <hi>Whether his going in perſon againſt ſuch baſe Rebels be not a deſcending too low from that high dignity and Royal eminency wherein God hath placed him, as his immediate Vice-gerent, and whether it be not more for his Maieſties Honour and Safety, and for the inward ſecurity of his People againſt their Feares of danger, to his Maieſties perſon, and their outward quietneſſe againſt dangers to themſelues, to
+<pb facs="tcp:172710:4"/>
+                  <!-- PDF PAGE 102 -->command ſuch Forces of his willing Subiects to goe in that expedition as by Gods helpe and aſſiſtance may be more then ſufficient to cruſe their Rebellion, and reduce the whole Kingdome to his Maieſties obe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ience,</hi> but concerning this wiſh and hope that His <hi>Maieſty</hi> may be pleaſed to he<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e and conſider of the advice and Councell of his Parliament of <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ngland,</hi> as being more neerely concerned in the matters of <hi>Ireland</hi> although none be more in their intereſt in his majeſties Royall perſon. In the end they doe numbly intreat that all meanes may be forborn which may make the breach wider, and the wound deeper, and that no place be given to evill Spi<g ref="char:EOLhyphen"/>rit of Diviſion, which at ſuch times worketh unceſſantly, and ra<g ref="char:EOLhyphen"/>ther now that the faireſt, the moſt expreſſion, and compendious way be taken by ſo wiſe a King and parliament, as may againſt all malice and oppoſition make his majeſty and his poſterity more glorious, and his Kingdomes more happy then ever for this bleſſed end and earneſtly wiſhed for Concluſion, according to their mani<g ref="char:EOLhyphen"/>fold obligations and duty, they do offer their beſt indeavours, and for the preſent have ſent the Earle of <hi>Lowdon,</hi> and Chancellour of the Kingdome, who will give a more full Declaration of their minde and deſires.</p>
+         </div>
+         <div type="Parliamentary_order">
+            <pb facs="tcp:172710:4"/>
+            <!-- PDF PAGE 102 -->
+            <opener>
+               <dateline>
+                  <date>Die Sabbati 28 Maii, 1642.</date>
+               </dateline>
+            </opener>
+            <head>An Order of the Lords and Commons in Parlia<g ref="char:EOLhyphen"/>ment, to the Sheriffe of the Coun<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y of <hi>Lancaſter,</hi> and all other Sheriffs, and Lord-Lieutenants and Deputy Lieutenants in the Kingdom of <hi>England</hi> and Dominion of <hi>Wales.</hi>
+            </head>
+            <p>WHeras it appears, That the King ſeduced by wicked Councell, intends to make Warre againſt the Parliament, and under the colour of a Guard, to ſecure his Royall Per<g ref="char:EOLhyphen"/>ſon, doth command Troops both of Horſe, and Foot to aſſemble at <hi>York:</hi> All which is againſt the Laws of the Kingdom, tending to the diſ<g ref="char:EOLhyphen"/>ſolution of the Parliament, and deſtruction of His People.</p>
+            <p>It is therefore Ordered by the Lords and Commons in Parliament, That the Sheriff of the County of <hi>Lancaſter,</hi> and all other Sheriffs of the Kingdome of <hi>England,</hi> and Dominion of <hi>Wales,</hi> Shall by the power of that County, and of their ſeveral Counties reſpectively, ſup<g ref="char:EOLhyphen"/>preſſe the raiſing and comming together of a<g ref="char:EOLhyphen"/>ny Soldiers, Horſe or foot, by any Warrant, Commiſſion or Order from His Majeſty, with<g ref="char:EOLhyphen"/>out the advice and conſent of the Lords and
+<pb facs="tcp:172710:5"/>
+               <!-- PDF PAGE 103 -->Commons in Parliament; And that all perſons whatſoever, do forbear to execute any ſuch Com<g ref="char:EOLhyphen"/>miſſion, or Warrant, for levying Souldiers, or gathering them together without conſent of Parliament; And thoſe who ſhall be diſturbers of the <hi>Peace</hi> of the Kingdome. And the Lord Lievtenant of the County of <hi>Lancaſter,</hi> and all other Lords Lievtenants of all other Counties in the Kingdome of <hi>England,</hi> or Dominion of <hi>Wales,</hi> reſpectively, As likewiſe all Deputy Lievtenants, Captaines, and Officers of the Trained Bands: And all Mayors, Juſtices of Peace, and other His Majeſties loving Subjects, are hereby commanded and required to be aiding and aſsiſting to the ſaid Sheriffe of the County of <hi>Lancaſter,</hi> and to the other Sheriffes of the other Counties of this Kingdom, and of the Dominion of <hi>Wales:</hi> And that His Maje<g ref="char:EOLhyphen"/>ſties loving Subjects may the better under<g ref="char:EOLhyphen"/>ſtand, what the Law, and their owne duty is in this behalf. The ſaid Sheriffe of <hi>Lancaſter,</hi> and other Sheriffes of the other Counties of this Kingdome, reſpectively, Shall cauſe this preſent Order forthwith to be pubiſhed in the ſeverall Market Townes within their ſaid Counties.</p>
+            <closer>
+               <signed>Ioh. Brown Cler. Parl.</signed>
+            </closer>
+            <pb facs="tcp:172710:5"/>
+            <!-- PDF PAGE 103 -->
+         </div>
+      </body>
+   </text>
+</TEI>
